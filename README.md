@@ -1,6 +1,4 @@
 # PowerLearnProject-CSS
-# Portfolio Website
-
 This is a simple portfolio website project showcasing my name, introduction, skills, and contact information. The website is designed with HTML and styled with CSS, focusing on margins and padding for better spacing and readability.
 
 ## Features
